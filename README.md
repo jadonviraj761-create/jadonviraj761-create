@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./virajbanner.png.png" width="100%" alt="Viraj Jadon Banner">
+</div>
+<div align="center">
   <img src="./virajbanner.png.png" width="100%">
 </div>
 <div align="center">
