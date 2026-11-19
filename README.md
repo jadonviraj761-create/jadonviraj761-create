@@ -2,9 +2,6 @@
   <img src="./viraj%20banner.png.png" width="100%" alt="Viraj Jadon Banner">
 </div>
 <div align="center">
-  <img src="./virajbanner.png.png" width="100%">
-</div>
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D47A1,100:00BFFF&height=200&section=header&text=VIRAJ%20JADON&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FUTURE%20AI%20ENGINEER&descAlignY=60&descSize=15" width="100%"/>
 
